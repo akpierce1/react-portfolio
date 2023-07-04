@@ -1,0 +1,140 @@
+/* body {
+    width: 100%;
+} */
+
+/* main {
+    margin: 5%;
+} */
+
+/* Header */
+.logo {
+    line-height: 15px;
+    padding-top: 1%;
+    color: #7D815E;
+}
+
+nav .logo p {
+    /* font-size: 1.25em; */
+    color: #7D815E;
+}
+
+.navbar a {
+    color: #7D815E;
+    font-size: 1.2em;
+}
+
+h1, h2, h3, h4, h5 {
+    font-size: 2em;
+    text-align: center;
+}
+
+/* About */
+.portrait {
+    width: 30em;
+    /* padding-left: 10%; */
+}
+
+h1 {
+    /* align-items: center; */
+    text-align: center;
+}
+
+.portrait {
+    /* display: right; */
+    float: left;
+    padding: 2%;
+}
+
+.about-section {
+    align-items: center;
+    padding: 3% 5%;
+    /* background-color: #EDEBE9; */
+    color: #7D815E;
+    width: 100%;
+}
+
+main {
+    /* background-color: #ccc3ba; */
+    background-color: #EDEBE9;
+}
+
+.about {
+    padding-top: 2%;
+    margin: 0 10%;
+    font-size: 1.1em;
+    /* align-items: left; */
+}
+
+/* Projects */
+.projects-section {
+    background-color: #7D815E;
+    color: #EDEBE9;
+    /* padding: 5%; */
+    padding-top: 4%;
+    padding-bottom: 5%;
+}
+
+.tyrellCounty, .NCisland, .portfolio {
+    padding-bottom: 2%;
+}
+
+.website-title {
+    font-size: 1.4em;
+}
+
+/* Skills + Experience Section */
+h3, h4 {
+    /* padding-top: 5%; */
+    color: #7D815E;
+    text-align: left;
+}
+
+.skills-section, .experience-section {
+    padding: 3em 0;
+    /* align-items: center;
+    text-align: center; */
+    color: #7D815E;
+    align-items: center;
+    margin: 0 30%;
+    /* font-size: 1.2em; */
+}
+
+/* .skills-section p {
+    font-size: 1.4em;
+} */
+
+
+/* Footer */
+footer {
+    padding: 3%;
+    padding-bottom: 1.5%;
+    background-color: #8B755F;
+    /* background-color: #EDEBE9; */
+    /* color: #7D815E; */
+    color: #EDEBE9;
+    text-align: center;
+}
+
+h5 {
+    /* padding-top: 2%; */
+    padding-bottom: 2%;
+}
+
+footer a {
+    color: #EDEBE9;
+    /* color: #7D815E; */
+    /* padding-bottom: 3%; */
+    /* padding-top: 3%; */
+    margin-right: 3%;
+    /* padding: 2%; */
+    /* display: inline; */
+    /* text-align: center; */
+}
+
+footer a:hover {
+    color: #5c613c;
+}
+
+.copyright {
+    padding-top: 3%;
+}
